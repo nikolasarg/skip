@@ -1,17 +1,9 @@
-# Skip
-
-Μια responsive παρουσίαση για to Skip
+# Summer Essentials
 
 ## 🔧 Τεχνολογίες
 - HTML5
 - CSS3
-- JavaScript
-  
-  jQuery   
-
-## 📱 Responsive
-Συμβατό με κινητά, tablets και desktop.
 
 ## 🔗 Live Demo
 
-https://media.athensvoice.gr/skip/koinoniki-ntoulapa-one-year
+https://media.athensvoice.gr/summer-essentials
